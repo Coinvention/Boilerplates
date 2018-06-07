@@ -1,2 +1,3 @@
 # Boilerplates
-The is a primlinary database of boilerplate code to stand on the shoulders of giants.
+
+This is the place to post repositories to start or to incorporate in our journey!
