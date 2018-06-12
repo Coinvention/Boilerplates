@@ -1,3 +1,3 @@
 # Boilerplates
 
-This is the place to post repositories to start or to incorporate in our journey!
+Collaborate with others knowledge to quickly move through pre-requisites!
